@@ -1,7 +1,6 @@
 # Symfony UX: Stimulus.js
 
-Well hi there! This repository holds the code and script
-for the [Symfony UX: Stimulus.js](https://symfonycasts.com/screencast/stimulus) course on SymfonyCasts.
+
 
 ## Setup
 
@@ -87,15 +86,4 @@ error that you need to run `symfony server:ca:install` first).
 
 Now check out the site at `https://localhost:8000`. Enjoy!
 
-## Have Ideas, Feedback or an Issue?
 
-If you have suggestions or questions, please feel free to
-open an issue on this repository or comment on the course
-itself. We're watching both :).
-
-## Thanks!
-
-And as always, thanks so much for your support and letting
-us do what we love!
-
-<3 Your friends at SymfonyCasts
